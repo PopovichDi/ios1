@@ -49,6 +49,6 @@ var profit = (deposit * procent * yers) / 100
 print("\(profit)")
 var finalDeposit = deposit + profit
 print("\(finalDeposit)")
-
+print("Finish")
 
 
